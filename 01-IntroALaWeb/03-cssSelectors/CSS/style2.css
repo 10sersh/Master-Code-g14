@@ -1,0 +1,25 @@
+body{
+    font-size: 18px;
+    font-family: 'M PLUS 1 Code', sans-serif;
+    margin: 0;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imagen{
+    height: 400px;
+}
+nav a{
+    text-decoration: none;
+    color: crimson;
+}
+nav a:hover{
+    color: black;
+    text-decoration: underline;
+}
+h1, p, div, nav{
+    text-align: center;
+}
+div{
+    border: 1px solid #000;
+}
